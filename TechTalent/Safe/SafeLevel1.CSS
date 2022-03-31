@@ -1,0 +1,71 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.remote {
+    text-align:center;
+    position: absolute;
+    background-color: grey;
+}
+.button1 {
+    position: absolute;
+    margin-left: 55vw;
+    margin-top: 45vh;
+}
+.button2 {
+    position: absolute;
+    margin-left: 59vw;
+    margin-top: 45vh;
+}
+.button3 {
+    position: absolute;
+    margin-left: 63vw;
+    margin-top: 45vh;
+}
+.button4 {
+    position: absolute;
+    margin-left: 56vw;
+    margin-top: 52vh;
+}
+.button5 {
+    position: absolute;
+    margin-left: 60vw;
+    margin-top: 52vh;
+}
+.button6 {
+    position: absolute;
+    margin-left: 64vw;
+    margin-top: 52vh;
+}
+.button7 {
+    position: absolute;
+    margin-left: 57vw;
+    margin-top: 59vh;
+}
+.button8 {
+    position: absolute;
+    margin-left: 61vw;
+    margin-top: 59vh;
+}
+.button9 {
+    position: absolute;
+    margin-left: 65vw;
+    margin-top: 59vh;
+}
+.buttonS {
+    position: absolute;
+    margin-left: 58vw;
+    margin-top: 66vh;
+}
+.button0 {
+    position: absolute;
+    margin-left: 62vw;
+    margin-top: 66vh;
+}
+.buttonEnd {
+    position: absolute;
+    margin-left: 66vw;
+    margin-top: 66vh;
+    text-transform: uppercase;
+}
